@@ -1,0 +1,64 @@
+.empty_row{
+    height:8rem;
+}
+
+.signin_button{
+    margin-top:15px;
+    cursor: pointer;
+}
+.login_side{
+    background-image: url("tech_bag1.jpg");
+    background-size: cover;
+    height: 750px;
+}
+#video-container{
+    height: 400px;
+    background-size: cover;
+    position: absolute;
+}
+.welcome{
+    font-size: 1.4rem;
+    color: #003153;
+    filter: brightness(170%);
+    font-stretch: ultra-expanded;
+    font-weight: 600;
+    margin-bottom: 2rem;
+}
+
+.login_text{
+    font-size:0.9rem;
+    color:black;
+    font-weight:bold;
+    margin-top:0.5rem;
+}
+
+.login_input{
+    border: 0.04rem solid #ced4da;
+    border-radius: .25rem;
+    width: 25rem;
+    height: 3.2rem;
+    margin-top:0.2rem;
+    margin-bottom:0.5rem;
+}
+.login_button2{
+    cursor: pointer;
+}
+.login_button{
+    height:3rem;
+    width:25rem;
+    margin-top:3rem;
+    font-size: 1rem;
+    font-weight: 500;
+    cursor: pointer;
+}
+
+.login_form{
+    margin-left:-0.3rem;
+}
+#main-content{
+    text-align: center;
+}
+.top_bar{
+    text-align: right;
+    margin-right: 20px;
+}

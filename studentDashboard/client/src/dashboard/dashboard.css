@@ -1,0 +1,59 @@
+.satya_table{
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 30px;
+}
+
+.satya_modal{
+    height: 400px !important;
+    overflow: scroll !important;
+    width: 400px !important;
+    border: 2px solid #000 !important;
+    padding: 16px 32px 24px!important;
+    position: absolute!important;
+    box-shadow: 0px 3px 5px -1px rgba(0,0,0,0.2), 0px 5px 8px 0px rgba(0,0,0,0.14), 0px 1px 14px 0px rgba(0,0,0,0.12);
+    background-color: white !important;
+    top: 50% !important;
+    left: 40% !important;
+    transform: translate(-50%, -40%);
+}
+
+.textbox_modal{
+    width: 350px !important;
+    margin-left: 30px !important;
+    margin-top: 5px !important;
+    margin-bottom: 10px!important;
+}
+
+.satya_form{
+    width: 420px !important; 
+    background-color: white !important;
+}
+
+.modal_button2{
+    text-align: center!important;
+    width: 200px!important;
+    margin-left: 600px!important;
+    margin-bottom: 30px!important;
+    margin-top: 30px!important;
+}
+.modal_button{
+    text-align: center!important;
+    width: 120px!important;
+    margin-left: 60px!important;
+    margin-bottom: 30px!important;
+    margin-top: 30px!important;
+}
+
+.back_to_login{
+    text-align: right !important;
+    margin-right: 20px;
+    margin-left: 15px !important;
+    margin-top: 15px !important;
+}
+
+#modal_err_msg{
+    color: red;
+    display: none;
+    margin-left: 250px;
+}
